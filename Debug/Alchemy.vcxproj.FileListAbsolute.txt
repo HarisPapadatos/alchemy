@@ -1,0 +1,4 @@
+C:\Users\Jelly\source\repos\Alchemy\Debug\Alchemy.exe
+C:\Users\Jelly\source\repos\Alchemy\Debug\Alchemy.pdb
+E:\Χαραλαμπής\Άλλα\Coding\Alchemy\Debug\Alchemy.exe
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Alchemy\Debug\Alchemy.exe
